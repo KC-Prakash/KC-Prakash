@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Prakash KC</h1>
+<h1 align="left">Hi 👋, I'm Prakash KC</h1>
 <h3 align="center">Journey of a Beginner Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="kc-prakash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kc-prakash" alt="kc-prakash" /></a> </p>
-
-- 🔭 I’m currently working on Buddhabhumi Municipality **MIS Operator**
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **prakashjwala01@gmail.com**
+- 🔭 I’m currently working on beginner-level web development projects to strengthen my skills.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and responsive design.
+- 👯 I’m looking to collaborate on simple web development projects and practice real-world problem-solving.
+- 🤔 I’m looking for help with improving JavaScript and understanding advanced web concepts.
+- 💬 Ask me about my journey as a beginner in web development.
+- 📫 How to reach me: prakashjwala01@gmail.com
+- ⚡ Fun fact: I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects! very short
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
