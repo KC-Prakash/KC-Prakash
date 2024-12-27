@@ -1,18 +1,5 @@
 ## Hi there 👋
 
-<!--
-**KC-Prakash/KC-Prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on beginner-level web development projects to strengthen my skills.
-🌱 I’m currently learning HTML, CSS, JavaScript, and responsive design.
-👯 I’m looking to collaborate on simple web development projects and practice real-world problem-solving.
-🤔 I’m looking for help with improving JavaScript and understanding advanced web concepts.
-💬 Ask me about my journey as a beginner in web development.
-📫 How to reach me: prakashjwala01@gmail.com
-⚡ Fun fact: I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
--->
 <h1 align="center">Hi 👋, I'm Prakash KC</h1>
 <h3 align="center">Journey of a Beginner Web Developer</h3>
 
