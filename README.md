@@ -4,12 +4,12 @@
 
 <ul>
   🔭 I’m currently working on beginner-level web development projects to strengthen my skills.
-  <li>🌱 I’m currently learning HTML, CSS, JavaScript, and responsive design.</li>
-  <li>👯 I’m looking to collaborate on simple web development projects and practice real-world problem-solving.</li>
-  <li>🤔 I’m looking for help with improving JavaScript and understanding advanced web concepts.</li>
-  <li>💬 Ask me about my journey as a beginner in web development.</li>
-  <li>📫 How to reach me: <a href="mailto:prakashjwala01@gmail.com">prakashjwala01@gmail.com</a></li>
-  <li>⚡ Fun fact: I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!</li>
+  🌱 I’m currently learning HTML, CSS, JavaScript, and responsive design.
+  👯 I’m looking to collaborate on simple web development projects and practice real-world problem-solving.
+  🤔 I’m looking for help with improving JavaScript and understanding advanced web concepts.
+  💬 Ask me about my journey as a beginner in web development.</li>
+  📫 How to reach me: <a href="mailto:prakashjwala01@gmail.com">prakashjwala01@gmail.com</a>
+  ⚡ Fun fact: I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
 </ul>
 
 ### <!-- Languages and Tools Section -->
