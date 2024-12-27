@@ -8,8 +8,6 @@
 - 💬 Ask me about my journey as a beginner in web development.
 - 📫 How to reach me: prakashjwala01@gmail.com
 - ⚡ Fun fact: I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects! very short
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
