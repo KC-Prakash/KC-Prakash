@@ -3,7 +3,7 @@
 <h3 align="left">Journey of a Beginner Web Developer</h3>
 
 <ul>
-  🔭 I’m currently working on beginner-level web development projects to strengthen my skills.
+  🔭 I’m currently working on beginner-level web development projects to strengthen my skills.<br>
   🌱 I’m currently learning HTML, CSS, JavaScript, and responsive design.
   👯 I’m looking to collaborate on simple web development projects and practice real-world problem-solving.
   🤔 I’m looking for help with improving JavaScript and understanding advanced web concepts.
