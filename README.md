@@ -1,4 +1,4 @@
-<!-- Hi, I'm Prakash KC -->
+### <!-- Hi, I'm Prakash KC -->
 <h1 align="left">Hi 👋, I'm Prakash KC</h1>
 <h3 align="left">Journey of a Beginner Web Developer</h3>
 
@@ -12,7 +12,7 @@
   <li>⚡ Fun fact: I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!</li>
 </ul>
 
-<!-- Languages and Tools Section -->
+### <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -23,14 +23,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<!-- GitHub Stats Section -->
+### <!-- GitHub Stats Section -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kc-prakash&show_icons=true&locale=en&layout=compact" alt="kc-prakash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-prakash&show_icons=true&locale=en" alt="kc-prakash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kc-prakash&" alt="kc-prakash" /></p>
 
-<!-- Profile Visitor Count Section -->
+### <!-- Profile Visitor Count Section -->
+
 <div align="left">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
