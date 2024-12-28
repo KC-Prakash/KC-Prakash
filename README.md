@@ -2,31 +2,31 @@
 <h1 align="left">Hi 👋, I'm Prakash KC</h1>
 <h3 align="left">Journey of a Beginner Web Developer</h3>
 
-🔭 **Currently working on:**  
-   Beginner-level web development projects to strengthen skills.  
+- 🔭 **Currently working on:**  
+  > Beginner-level web development projects to strengthen skills.  
 
-🌱 **Currently learning:**  
-  - HTML  
-  - CSS  
-  - JavaScript  
-  - Responsive design  
+- 🌱 **Currently learning:**  
+  > HTML  
+  > CSS  
+  > JavaScript  
+  > Responsive design  
 
-👯 **Looking to collaborate on:**  
-  - Simple web development projects.  
-  - Practicing real-world problem-solving.  
+- 👯 **Looking to collaborate on:**  
+  > Simple web development projects.  
+  > Practicing real-world problem-solving.  
 
-🤔 **Looking for help with:**  
-  - Improving JavaScript.  
-  - Understanding advanced web concepts.  
+- 🤔 **Looking for help with:**  
+  > Improving JavaScript.  
+  > Understanding advanced web concepts.  
 
-💬 **Ask me about:**  
-  - My journey as a beginner in web development.  
+- 💬 **Ask me about:**  
+  > My journey as a beginner in web development.  
 
-📫 **How to reach me:**  
-  - prakashjwala01@gmail.com  
+- 📫 **How to reach me:**  
+  > prakashjwala01@gmail.com  
 
-⚡ **Fun fact:**  
-  - I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
+- ⚡ **Fun fact:**  
+  > I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
 
 ### <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
