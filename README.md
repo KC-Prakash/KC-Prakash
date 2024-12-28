@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Prakash KC</h1>
 <h3 align="left">Journey of a Beginner Web Developer</h3>
 
-- 🔭 **Currently working on:**  
+🔭 **Currently working on:**  
   - Beginner-level web development projects to strengthen skills.  
 
 - 🌱 **Currently learning:**  
