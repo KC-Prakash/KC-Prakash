@@ -5,27 +5,27 @@
 🔭 **Currently working on:**  
   - Beginner-level web development projects to strengthen skills.  
 
-- 🌱 **Currently learning:**  
+🌱 **Currently learning:**  
   - HTML  
   - CSS  
   - JavaScript  
   - Responsive design  
 
-- 👯 **Looking to collaborate on:**  
+👯 **Looking to collaborate on:**  
   - Simple web development projects.  
   - Practicing real-world problem-solving.  
 
-- 🤔 **Looking for help with:**  
+🤔 **Looking for help with:**  
   - Improving JavaScript.  
   - Understanding advanced web concepts.  
 
-- 💬 **Ask me about:**  
+💬 **Ask me about:**  
   - My journey as a beginner in web development.  
 
-- 📫 **How to reach me:**  
+📫 **How to reach me:**  
   - prakashjwala01@gmail.com  
 
-- ⚡ **Fun fact:**  
+⚡ **Fun fact:**  
   - I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
 
 ### <!-- Languages and Tools Section -->
