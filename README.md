@@ -9,6 +9,8 @@
   > HTML  
   > CSS  
   > JavaScript  
+  > Python
+  > Django 
   > Responsive design  
 
 - 👯 **Looking to collaborate on:**  
