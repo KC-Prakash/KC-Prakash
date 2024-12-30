@@ -89,9 +89,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kc-prakash&show_icons=true&locale=en&layout=compact" alt="kc-prakash" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kc-prakash&" alt="kc-prakash" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-prakash&show_icons=true&locale=en" alt="kc-prakash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kc-prakash&" alt="kc-prakash" /></p>
 
 ### <!-- Profile Visitor Count Section -->
 
