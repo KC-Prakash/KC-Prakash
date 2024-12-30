@@ -30,6 +30,10 @@
 - ⚡ **Fun fact:**  
   > I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
 
+##Snake animation
+<img src="https://raw.githubusercontent.com/kc-prakash/kc-prakash/output/snake.svg" alt="Snake animation" />
+
+
 ### <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
