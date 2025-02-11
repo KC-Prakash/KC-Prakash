@@ -11,7 +11,7 @@ Hey there, I'm Prakash!
   
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+Journey of a Beginner Web Developer | Beginner-level web development projects to strengthen skills.
 
 ### Languages :
 
@@ -19,13 +19,13 @@ Passionate Software Developer | Web Design Enthusiast
 <table  align="center">
   <tr>
     
-        NP Nepali - Native
+        ne Nepali - Native
         
   </tr>
 
   <tr>
     
-        US English - Pre-Intermediate
+        en-US English - Pre-Intermediate
         
   </tr>
 </table>
