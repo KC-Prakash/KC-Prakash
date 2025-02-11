@@ -1,105 +1,154 @@
-### <!-- Hi, I'm Prakash KC -->
-<h1 align="left">Hi 👋, I'm Prakash KC</h1>
-<h3 align="left">Journey of a Beginner Web Developer</h3>
+<div id="header" align="center">
 
-- 🔭 **Currently working on:**  
-  > Beginner-level web development projects to strengthen skills.  
+<img src="./assets/github.gif" width="100"/>
 
-- 🌱 **Currently learning:**  
-  > HTML  
-  > CSS  
-  > JavaScript  
-  > Python  
-  > Django  
-  > Responsive design  
+<h1>
+Hey there, I'm Viktor!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
 
-- 👯 **Looking to collaborate on:**  
-  > Simple web development projects.  
-  > Practicing real-world problem-solving.  
+   </div>
+  
+### About Me :
 
-- 🤔 **Looking for help with:**  
-  > Improving JavaScript.  
-  > Understanding advanced web concepts.  
+Passionate Software Developer | Web Design Enthusiast
 
-- 💬 **Ask me about:**  
-  > My journey as a beginner in web development.  
+### Languages :
 
-- 📫 **How to reach me:**  
-  > prakashjwala01@gmail.com  
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
 
-- ⚡ **Fun fact:**  
-  > I love discovering creative ways to solve coding challenges and enjoy learning through hands-on projects!
-
-### <!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <tr>
+    
+        🇬🇧 English - Pre-Intermediate
+        
+  </tr>
+</table>
 </div>
 
-## Social Media
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
-  <a href="https://www.instagram.com/prakashkc01/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=flat" height="30" alt="ko-fi logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=flat" height="30" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=flat" height="30" alt="codesandbox logo"  />
+### My stack and tools :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="88">
+        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+      <br>CSS3
+    </td>
+<td align="center" width="88">
+         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
+      <br>Python
+    </td>
+    <td align="center" width="88">
+        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
+      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+        <td align="center" width="88">
+       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
+      </td>
+  </tr>
+    <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+    <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+      <br>BEM
+    </td>
+    <td align="center"  width="88">
+        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="88">
+        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+      <td align="center" width="88">
+        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+      </td>
+      <td align="center" width="88">
+        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+     </td>
+     <td align="center" width="88">
+        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+  <td align="center" width="88">
+        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+  <td align="center" width="88">
+        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+      <br>Figma
+     </td>
+</table>
 </div>
 
-### <!-- GitHub Stats Section -->
+### GitHub Stats :
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kc-prakash&" alt="kc-prakash" /></p>
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktorSvertoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kc-prakash&show_icons=true&locale=en" alt="kc-prakash" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kc-prakash&show_icons=true&locale=en&layout=compact" alt="kc-prakash" /></p>
-
-
-### <!-- Profile Visitor Count Section -->
-
-<div align="left">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
 </div>
-<p align="left">   
-  <img src="https://profile-counter.glitch.me/kc_Prakash/count.svg" />  
-</p>
+  
+<br>
+
+<div align="center">
+<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+</div>
