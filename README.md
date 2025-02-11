@@ -19,13 +19,13 @@ Passionate Software Developer | Web Design Enthusiast
 <table  align="center">
   <tr>
     
-        🇺🇦 Ukrainian - Native
+        NP Nepali - Native
         
   </tr>
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        US English - Pre-Intermediate
         
   </tr>
 </table>
