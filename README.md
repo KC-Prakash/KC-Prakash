@@ -138,7 +138,7 @@ Passionate Software Developer | Web Design Enthusiast
 <br>
 
 <div align="center">
-<a href="https://u8views.com/github/KC-Prakash"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/KC-Prakash"><img src="https://u8views.com/api/v1/github/profiles/101246017/views/day-week-month-total-count.svg"></a>
 </div>
 
 <br>
