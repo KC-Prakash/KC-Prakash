@@ -144,7 +144,7 @@ Journey of a Beginner Web Developer | Beginner-level web development projects to
 <br>
 
 <div align="center">
-<a href="https://www.codewars.com/users/KC-Prakash"><img src="https://www.codewars.com/users/KC-Prakash/badges/small">
+<a href="https://www.codewars.com/users/KC-Prakash"><img src="https://www.codewars.com/users/KC-Prakash/badges/large">
 </div>
 
 <br>
