@@ -118,7 +118,7 @@ Journey of a Beginner Web Developer | Beginner-level web development projects to
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/KC-Prakash/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
+  <a href="https://github.com/KC-Prakash/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prakash github stats" /></a>
   </td>
   <td>
   <a href="https://github.com/KC-Prakash/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&theme=buefy&hide_border=true" /></a>
@@ -126,7 +126,7 @@ Journey of a Beginner Web Developer | Beginner-level web development projects to
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=KC-Prakash&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=KC-Prakash&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Prakash KC GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
 </table>
