@@ -49,8 +49,8 @@ Journey of a Beginner Web Developer | Beginner-level web development projects to
       <br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
-      <br>TypeScript
+        <img src="./images/04-laravel.svg" alt="TS" width="44" height="44"/>
+      <br>Laravel
     </td>
     <td align="center" width="88">
         <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
