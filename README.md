@@ -151,3 +151,8 @@ Journey of a Beginner Web Developer | Beginner-level web development projects to
 <div align="center">
 <a href="https://www.buymeacoffee.com/prakash_kc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
 </div>
+
+
+[![KC-Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&theme=radical)](https://github.com/KC-Prakash)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KC-Prakash&theme=dark)](https://git.io/streak-stats)
