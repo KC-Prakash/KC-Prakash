@@ -2,31 +2,20 @@
 
 <div align="center">
 
-<img src="./assets/github.gif" width="100" alt="Hello">
+<img src="./assets/github.gif" width="80" alt="Hello">
 
-<h1>
-  Prakash KC
-</h1>
-
-### 💻 Full-Stack Web Developer • MIS Specialist • Technology Learner
+<h2>Prakash KC</h2>
 
 <p>
-  <em>Building practical web applications, learning modern technologies, and turning ideas into useful digital solutions.</em>
+Full-Stack Web Developer • MIS Specialist • Technology Learner
 </p>
 
-<br>
+<p>
+Building practical web applications, learning modern technologies,
+and creating useful digital solutions.
+</p>
 
-<a href="https://github.com/KC-Prakash">
-  <img src="https://komarev.com/ghpvc/?username=KC-Prakash&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-</a>
-
-<a href="https://github.com/KC-Prakash?tab=followers">
-  <img src="https://img.shields.io/github/followers/KC-Prakash?label=Followers&style=for-the-badge" alt="Followers">
-</a>
-
-<a href="https://github.com/KC-Prakash">
-  <img src="https://img.shields.io/github/stars/KC-Prakash?label=Stars&style=for-the-badge" alt="GitHub Stars">
-</a>
+<img src="https://komarev.com/ghpvc/?username=KC-Prakash&label=Profile%20Views&style=flat" alt="Profile Views">
 
 </div>
 
@@ -34,104 +23,122 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Prakash KC**, a technology enthusiast and developer focused on building practical, responsive, and user-friendly web applications.
+I'm **Prakash KC**, a technology enthusiast focused on web development, full-stack applications, UI/UX design, database systems, and cybersecurity.
 
-My journey started with teaching computer and mathematics, and gradually evolved into web development, software systems, database technologies, UI/UX design, and cybersecurity.
-
-I enjoy learning by **building real projects**, experimenting with new technologies, and continuously improving my development workflow.
+I enjoy learning through real-world projects and continuously improving my development, problem-solving, and system-design skills.
 
 ```javascript
 const prakash = {
     role: "Full-Stack Web Developer",
-    focus: [
+
+    interests: [
         "Web Development",
         "Full-Stack Applications",
         "UI/UX Design",
         "Government Digital Systems",
         "Cybersecurity"
     ],
-    frontend: ["HTML5", "CSS3", "JavaScript", "React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "Laravel", "Python"],
-    database: ["MongoDB", "SQL"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "Figma"],
-    currentlyLearning: [
-        "Advanced React",
-        "Node.js",
-        "System Design",
-        "Cybersecurity",
-        "Modern UI/UX"
+
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
     ],
-    philosophy: "Learn → Build → Break → Fix → Improve 🚀"
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Laravel",
+        "Python"
+    ],
+
+    database: [
+        "MongoDB",
+        "SQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Figma"
+    ],
+
+    philosophy: "Learn → Build → Solve → Improve"
 };
 ```
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="25%" valign="top">
 
 ### 🌐 Web Development
 
 * Responsive websites
-* Modern frontend interfaces
-* Full-stack web applications
+* Modern UI
+* Frontend development
+* Full-stack applications
 * REST APIs
-* Authentication & authorization
-* Dashboard systems
+* Authentication
 * Form validation
 * Search & filtering
-* Responsive layouts
 
 </td>
 
-<td width="50%">
+<td width="25%" valign="top">
 
-### 🧩 Application Development
+### ⚙️ Application Development
 
 * MERN applications
 * CRUD systems
-* Database-driven applications
-* Admin dashboards
+* Dashboard systems
+* Database applications
 * Job portals
-* Government-oriented systems
-* API integrations
-* Data visualization
+* Admin panels
+* API integration
+* Data management
 
 </td>
-</tr>
 
-<tr>
-<td>
+<td width="25%" valign="top">
 
 ### 🎨 UI/UX & Design
 
 * Figma
 * Design systems
 * Design tokens
-* Responsive design
-* Component systems
-* Accessibility
-* Typography systems
+* Typography
 * Color systems
+* Responsive layouts
+* Components
+* Accessibility
 
 </td>
 
-<td>
+<td width="25%" valign="top">
 
 ### 🔐 Technology & Security
 
-* Networking fundamentals
-* Linux & Windows administration
-* Web security fundamentals
+* Networking
 * Firewalls
+* Web security
 * API security
 * Authentication
-* Cybersecurity learning
+* Linux
+* Windows administration
+* Cybersecurity fundamentals
 
 </td>
+
 </tr>
 </table>
 
@@ -141,172 +148,170 @@ const prakash = {
 
 ## 💻 Languages
 
-<p align="center">
+<div align="center">
 
-<img src="./images/01-html5.svg" width="55" title="HTML5">
-<img src="./images/02-css3.svg" width="55" title="CSS3">
-<img src="./images/03-javascript.svg" width="55" title="JavaScript">
-<img src="./images/05-python.svg" width="55" title="Python">
-<img src="./images/09-sql.svg" width="55" title="SQL">
+<img src="./images/01-html5.svg" width="44" alt="HTML5">
+<img src="./images/02-css3.svg" width="44" alt="CSS3">
+<img src="./images/03-javascript.svg" width="44" alt="JavaScript">
+<img src="./images/05-python.svg" width="44" alt="Python">
+<img src="./images/09-sql.svg" width="44" alt="SQL">
 
-</p>
+</div>
 
 ## ⚛️ Frontend
 
-<p align="center">
+<div align="center">
 
-<img src="./images/06-react.svg" width="55" title="React">
-<img src="./images/07-nextjs.svg" width="55" title="Next.js">
-<img src="./images/12-tailwind.svg" width="55" title="Tailwind CSS">
-<img src="./images/10-sass.svg" width="55" title="Sass">
-<img src="./images/11-bem.svg" width="55" title="BEM">
-<img src="./images/13-redux.svg" width="55" title="Redux">
+<img src="./images/06-react.svg" width="44" alt="React">
+<img src="./images/07-nextjs.svg" width="44" alt="Next.js">
+<img src="./images/12-tailwind.svg" width="44" alt="Tailwind CSS">
+<img src="./images/10-sass.svg" width="44" alt="Sass">
+<img src="./images/11-bem.svg" width="44" alt="BEM">
+<img src="./images/13-redux.svg" width="44" alt="Redux">
 
-</p>
+</div>
 
 ## 🖥️ Backend & Database
 
-<p align="center">
+<div align="center">
 
-<img src="./images/04-laravel.svg" width="55" title="Laravel">
-<img src="./images/08-nodejs.svg" width="55" title="Node.js">
-<img src="./images/15-mongodb.svg" width="55" title="MongoDB">
+<img src="./images/04-laravel.svg" width="44" alt="Laravel">
+<img src="./images/08-nodejs.svg" width="44" alt="Node.js">
+<img src="./images/15-mongodb.svg" width="44" alt="MongoDB">
 
-</p>
+</div>
 
 ## 🔧 Tools
 
-<p align="center">
+<div align="center">
 
-<img src="./images/14-postman.svg" width="55" title="Postman">
-<img src="./images/16-git.svg" width="55" title="Git">
-<img src="./images/17-vscode.svg" width="55" title="VS Code">
-<img src="./images/18-figma.svg" width="55" title="Figma">
+<img src="./images/14-postman.svg" width="44" alt="Postman">
+<img src="./images/16-git.svg" width="44" alt="Git">
+<img src="./images/17-vscode.svg" width="44" alt="VS Code">
+<img src="./images/18-figma.svg" width="44" alt="Figma">
 
-</p>
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-> I learn best by building. Here are some of my major projects and experiments.
+## 💼 MERN Job Portal
 
-### 💼 MERN Job Portal
-
-**Full-stack job marketplace built with React, Node.js, Express and MongoDB.**
+A full-stack job marketplace built with React, Node.js, Express.js and MongoDB.
 
 **Features**
 
-* 👤 Job seeker & employer accounts
-* 🔐 JWT authentication
-* 💼 Job posting
-* 🔎 Advanced job search
-* 🏷️ Category filtering
-* 📍 Location filtering
-* 💰 Salary filtering
-* ☑️ Multi-select job types
-* 🔖 Save / unsave jobs
-* 📄 Job applications
-* 🏢 Employer dashboard
-* 👤 User profiles
-* 📊 Application management
-* 📱 Responsive UI
+* Job seeker & employer accounts
+* JWT authentication
+* Job posting
+* Job search
+* Category filtering
+* Location filtering
+* Salary filtering
+* Job type filtering
+* Save / unsave jobs
+* Job applications
+* Employer dashboard
+* User profiles
+* Application management
+* Responsive UI
 
 **Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-### 🌦️ Weather & Farming Application
+## 🌦️ Weather & Farming Application
 
-A practical weather-focused application designed around local farming needs.
-
-**Features**
-
-* 🌤️ Current weather
-* 📅 Weather forecast
-* 🌡️ Temperature information
-* 💧 Humidity
-* 🌧️ Rain information
-* 🌱 Farming recommendations
-* ⚠️ Weather alerts
-* 📍 GPS location
-* 🗺️ Interactive map
-* 📊 Weather charts
-* 🌫️ Air Quality Index
-* 🌙 Dark mode
-* 📱 PWA support
-* 🇳🇵 Nepali language support
-
-**Technology:** `Open-Meteo API` `AQI API` `Leaflet` `Chart.js` `JavaScript`
-
----
-
-### 💱 Nepal Currency Converter
-
-Currency conversion application using exchange-rate data.
+A practical weather application designed around farming and local weather information.
 
 **Features**
 
-* 💵 Currency conversion
-* 🇳🇵 Nepalese Rupee support
-* 🔄 Dynamic conversion
-* 📡 API integration
-* 📱 Responsive interface
-* ⚡ Real-time rate retrieval
+* Current weather
+* Weather forecast
+* Temperature
+* Humidity
+* Rain information
+* Farming recommendations
+* Weather alerts
+* GPS location
+* Interactive maps
+* Weather charts
+* Air Quality Index
+* Dark mode
+* PWA support
+* Nepali language support
 
-**Technology:** `HTML` `CSS` `JavaScript` `Nepal Rastra Bank API`
+**Stack:** `JavaScript` `Open-Meteo API` `AQI API` `Leaflet` `Chart.js`
 
 ---
 
-### ✖️ Multiplication Table Generator
+## 💱 Nepal Currency Converter
 
-A simple interactive educational application.
+A currency conversion application using exchange-rate information.
 
 **Features**
 
-* 🔢 Custom multiplication tables
-* ⚡ Instant calculation
-* 🌙 Dark mode
-* 📱 Responsive UI
-* 🎨 Clean interface
+* Currency conversion
+* Nepalese Rupee support
+* Dynamic conversion
+* API integration
+* Responsive interface
+* Exchange-rate retrieval
 
-**Technology:** `HTML` `CSS` `JavaScript`
+**Stack:** `HTML` `CSS` `JavaScript` `Nepal Rastra Bank API`
 
 ---
 
-### 🎨 Developer Portfolio & Blog
+## ✖️ Multiplication Table Generator
 
-A personal developer platform for sharing projects, learning resources, and development experiences.
+Interactive educational web application.
+
+**Features**
+
+* Custom multiplication tables
+* Instant calculation
+* Dark mode
+* Responsive design
+* Clean UI
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+## 🎨 Developer Portfolio & Blog
+
+Personal developer platform for projects, articles, experiments, and learning resources.
 
 **Focus**
 
-* Developer portfolio
+* Portfolio
 * Technical articles
 * Project showcase
 * Responsive design
-* Modern UI
 * Reusable components
+* Modern UI
 
 ---
 
-### 🏛️ Government Portal UI/UX System
+## 🏛️ Government Portal UI/UX System
 
-A design-system-focused project for creating modern government digital services.
+A design-system project focused on modern government digital services.
 
 **Design System**
 
-* 🎨 Color tokens
-* 🔤 Typography tokens
-* 📐 Spacing system
-* 📏 Sizing system
-* 🔲 Border radius
-* 🧱 Border width
-* 🌫️ Opacity
-* 🪄 Shadows
-* 🧩 Components
-* ♿ Accessibility
-* 📱 Responsive layouts
-* 🌙 Light / Dark themes
+* Color tokens
+* Typography tokens
+* Spacing system
+* Sizing system
+* Border radius
+* Border width
+* Opacity
+* Shadows
+* Components
+* Accessibility
+* Responsive layouts
+* Light / Dark themes
 
 **Tools:** `Figma` `Tokens Studio`
 
@@ -314,40 +319,14 @@ A design-system-focused project for creating modern government digital services.
 
 # 🧠 Currently Learning
 
-```text
-Frontend
-████████████████████░░  React / Next.js
-
-Backend
-██████████████████░░░░  Node.js / Express
-
-Database
-████████████████░░░░░░  MongoDB / SQL
-
-UI/UX
-███████████████████░░░  Figma / Design Systems
-
-Security
-██████████████░░░░░░░░  Cybersecurity
-
-System Design
-███████████░░░░░░░░░░░  Architecture & Scalability
-```
-
-### 🎯 Current Focus
-
-* Advanced React development
-* Full-stack application architecture
-* REST API development
-* Authentication & authorization
-* MongoDB database design
-* Responsive UI systems
-* Figma design systems
-* Design tokens
-* Accessibility
-* Web security
-* Networking fundamentals
-* Linux administration
+| Area          | Focus                                      |
+| ------------- | ------------------------------------------ |
+| Frontend      | React, Next.js, Advanced JavaScript        |
+| Backend       | Node.js, Express.js, REST APIs             |
+| Database      | MongoDB, SQL, Data Modeling                |
+| UI/UX         | Figma, Design Systems, Design Tokens       |
+| Security      | Web Security, Networking, Firewalls        |
+| System Design | Architecture, Scalability & Best Practices |
 
 ---
 
@@ -360,109 +339,74 @@ System Design
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/KC-Prakash">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
 </a>
 
 <a href="https://github.com/KC-Prakash">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
 </a>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true&theme=transparent" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true" alt="GitHub Streak">
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <div align="center">
 
-[![Prakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KC-Prakash\&hide_border=true\&theme=github-compact)](https://github.com/KC-Prakash)
+<a href="https://github.com/KC-Prakash">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KC-Prakash&hide_border=true&theme=github-compact" alt="GitHub Activity Graph">
+
+</a>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
-<div align="center">
+Instead of relying on external GitHub Trophy services that can return errors such as **402 Invalid upstream response**, this profile keeps the achievement section lightweight and reliable.
 
-<img src="https://github-profile-trophy.vercel.app/?username=KC-Prakash&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
+### 🎯 Development Milestones
 
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KC-Prakash/KC-Prakash/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
-> If the snake animation is not available, create a GitHub Actions workflow to generate the SVG automatically.
+* 🚀 Building full-stack web applications
+* 💻 Developing MERN-based projects
+* 🎨 Learning professional UI/UX systems
+* 🧩 Creating reusable UI components
+* 🔌 Working with REST APIs
+* 🗄️ Working with MongoDB and SQL
+* 🔐 Learning cybersecurity fundamentals
+* 📚 Continuously improving programming skills
 
 ---
 
-# 💡 Development Philosophy
+# 🧪 Coding & Problem Solving
 
 <div align="center">
 
-### **Learn → Build → Experiment → Solve → Improve**
+<a href="https://www.codewars.com/users/KC-Prakash">
 
-```text
-                    💡 Idea
-                      │
-                      ▼
-                 🧠 Learn
-                      │
-                      ▼
-                 🛠️ Build
-                      │
-                      ▼
-                 🧪 Test
-                      │
-                ┌─────┴─────┐
-                ▼           ▼
-              ❌ Bug       ✅ Works
-                │           │
-                ▼           ▼
-              🔍 Debug    🚀 Deploy
-                │
-                └──────► 🔄 Improve
-```
+<img src="https://www.codewars.com/users/KC-Prakash/badges/large" alt="Codewars">
+
+</a>
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Build production-ready full-stack applications
-* [ ] Improve React & Next.js expertise
-* [ ] Build scalable REST APIs
-* [ ] Improve database architecture skills
-* [ ] Create reusable UI component systems
-* [ ] Master Figma design systems
-* [ ] Learn advanced cybersecurity
-* [ ] Improve Linux & networking skills
-* [ ] Contribute to open-source projects
-* [ ] Publish more technical projects
-* [ ] Build useful Nepal-focused digital solutions
 
 ---
 
@@ -505,8 +449,8 @@ System Design
 * SQL
 * CRUD
 * Data Modeling
-* Query Optimization
 * Database Relationships
+* Query Optimization
 
 </details>
 
@@ -535,49 +479,53 @@ System Design
 * Windows Security
 * Web Security
 * API Security
-* Security Fundamentals
 
 </details>
 
 ---
 
-# 🧰 My Development Workflow
+# 🎯 2026 Goals
 
-```text
-Idea
- ↓
-Research
- ↓
-Plan
- ↓
-UI/UX Design
- ↓
-Development
- ↓
-API Integration
- ↓
-Database
- ↓
-Testing
- ↓
-Debugging
- ↓
-Optimization
- ↓
-Deployment
-```
+* [ ] Build production-ready full-stack applications
+* [ ] Improve React & Next.js expertise
+* [ ] Build scalable REST APIs
+* [ ] Improve database architecture
+* [ ] Create reusable UI component systems
+* [ ] Master Figma design systems
+* [ ] Learn advanced cybersecurity
+* [ ] Improve Linux & networking skills
+* [ ] Contribute to open-source projects
+* [ ] Build useful Nepal-focused digital solutions
 
 ---
 
-# 🧪 Coding & Problem Solving
+# 💡 Development Philosophy
 
 <div align="center">
 
-<a href="https://www.codewars.com/users/KC-Prakash">
-<img src="https://www.codewars.com/users/KC-Prakash/badges/large" alt="Codewars">
-</a>
+### Learn → Build → Experiment → Solve → Improve
 
 </div>
+
+```text
+💡 Idea
+  ↓
+🧠 Learn
+  ↓
+📝 Plan
+  ↓
+🎨 Design
+  ↓
+💻 Build
+  ↓
+🧪 Test
+  ↓
+🔍 Debug
+  ↓
+🚀 Deploy
+  ↓
+📈 Improve
+```
 
 ---
 
@@ -585,7 +533,7 @@ Deployment
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=I+love+building+things+with+code+%F0%9F%92%BB;I+enjoy+solving+technical+problems+%F0%9F%A7%A9;I+learn+by+building+real+projects+%F0%9F%9A%80;Sometimes+the+bug+is+the+feature+%F0%9F%98%84;Keep+learning.+Keep+building.+Keep+improving." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=I+love+building+things+with+code+%F0%9F%92%BB;I+enjoy+solving+technical+problems+%F0%9F%A7%A9;I+learn+by+building+real+projects+%F0%9F%9A%80;Keep+learning.+Keep+building.+Keep+improving." alt="Typing SVG">
 
 </div>
 
@@ -596,7 +544,9 @@ Deployment
 <div align="center">
 
 <a href="https://u8views.com/github/KC-Prakash">
+
 <img src="https://u8views.com/api/v1/github/profiles/101246017/views/day-week-month-total-count.svg" alt="Profile Views">
+
 </a>
 
 </div>
@@ -608,15 +558,15 @@ Deployment
 <div align="center">
 
 <a href="https://github.com/KC-Prakash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
@@ -625,12 +575,12 @@ Deployment
 
 # ☕ Support My Work
 
-If you find my projects useful or enjoy my work, you can support me:
-
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/prakash_kc" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" alt="Buy Me A Coffee">
+<a href="https://www.buymeacoffee.com/prakash_kc">
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="40" alt="Buy Me A Coffee">
+
 </a>
 
 </div>
@@ -641,27 +591,8 @@ If you find my projects useful or enjoy my work, you can support me:
 
 ### 💻 Code. Learn. Build. Repeat. 🚀
 
-<img src="./assets/giphy.gif" width="40" alt="Coding">
-
 **Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and follow my development journey.
+⭐ Explore my repositories and follow my development journey.
 
 </div>
-
----
-
-<!--
-===========================================================
-                     PROFILE README
-===========================================================
-
-Author: Prakash KC
-GitHub: KC-Prakash
-
-Keep learning.
-Keep building.
-Keep sharing.
-
-===========================================================
--->
