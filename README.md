@@ -140,8 +140,6 @@ Journey of a Beginner Web Developer | Beginner-level web development projects to
 <a href="https://u8views.com/github/KC-Prakash"><img src="https://u8views.com/api/v1/github/profiles/101246017/views/day-week-month-total-count.svg"></a>
 </div>
 
-[![Prakash KC profile views](https://u8views.com/api/v1/github/profiles/101246017/views/day-week-month-total-count.svg)](https://u8views.com/github/KC-Prakash)
-
 <br>
 
 <div align="center">
