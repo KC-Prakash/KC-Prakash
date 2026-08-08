@@ -1,102 +1,82 @@
 <div align="center">
 
-<img src="./assets/github.gif" width="64" alt="Hello">
+# 👋 Hey, I'm Prakash KC
 
-# Prakash KC
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MIS+Specialist+%F0%9F%92%BC;UI%2FUX+Designer+%F0%9F%8E%A8;Cybersecurity+Learner+%F0%9F%94%90;Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 
-### Full-Stack Web Developer · MIS Specialist · Technology Learner
+<br/>
 
-<p>Building practical web applications, exploring modern technologies, and creating useful digital solutions.</p>
-
-<img src="https://komarev.com/ghpvc/?username=KC-Prakash&label=Profile%20Views&style=flat" alt="Profile Views">
+[![Profile Views](https://komarev.com/ghpvc/?username=KC-Prakash&label=Profile+Views&style=flat-square&color=0e75b6)](https://github.com/KC-Prakash)
+[![GitHub followers](https://img.shields.io/github/followers/KC-Prakash?style=flat-square&label=Followers&logo=github)](https://github.com/KC-Prakash)
+[![Codewars](https://img.shields.io/badge/Codewars-KC--Prakash-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/KC-Prakash)
 
 </div>
 
 ---
 
-## 👋 About
+## 🧑‍💻 About Me
 
-I'm **Prakash KC**, a technology enthusiast focused on web development, full-stack applications, UI/UX design, database systems, and cybersecurity.
+I'm **Prakash KC** — a technology enthusiast from 🇳🇵 Nepal, focused on building practical web applications and learning modern technologies through real-world projects.
 
-I learn through real-world projects while improving development, problem-solving, and system-design skills.
-
-<details>
-<summary><b>💻 Developer Profile</b></summary>
-
-```javascript
+```js
 const prakash = {
-  role: "Full-Stack Web Developer",
-  interests: [
-    "Web Development",
-    "Full-Stack Applications",
-    "UI/UX Design",
-    "Government Digital Systems",
-    "Cybersecurity"
-  ],
-  frontend: ["HTML5", "CSS3", "JavaScript", "React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "Laravel", "Python"],
-  database: ["MongoDB", "SQL"],
-  tools: ["Git", "GitHub", "VS Code", "Postman", "Figma"],
-  philosophy: "Learn → Build → Solve → Improve"
+  role:      "Full-Stack Web Developer",
+  location:  "Nepal 🇳🇵",
+  learning:  ["React", "Next.js", "Node.js", "Cybersecurity"],
+  interests: ["Web Dev", "UI/UX Design", "Gov Digital Systems", "Cybersecurity"],
+  languages: { Nepali: "Native", English: "Pre-Intermediate" },
+  philosophy: "Learn → Build → Experiment → Solve → Improve"
 };
 ```
-
-</details>
-
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 🌐 Web Development
-Responsive websites · Modern UI · Frontend · Full-stack · REST APIs · Authentication · Validation · Search & filtering
-
-</td>
-<td width="25%" valign="top">
-
-### ⚙️ Applications
-MERN apps · CRUD systems · Dashboards · Database apps · Job portals · Admin panels · API integration · Data management
-
-</td>
-<td width="25%" valign="top">
-
-### 🎨 UI/UX & Design
-Figma · Design systems · Design tokens · Typography · Color systems · Responsive layouts · Components · Accessibility
-
-</td>
-<td width="25%" valign="top">
-
-### 🔐 Technology & Security
-Networking · Firewalls · Web security · API security · Authentication · Linux · Windows administration · Cybersecurity
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+
 <div align="center">
 
-**Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img src="./images/01-html5.svg" width="40" alt="HTML5"> <img src="./images/02-css3.svg" width="40" alt="CSS3"> <img src="./images/03-javascript.svg" width="40" alt="JavaScript"> <img src="./images/05-python.svg" width="40" alt="Python"> <img src="./images/09-sql.svg" width="40" alt="SQL">
+</div>
 
-**Frontend**
+### ⚛️ Frontend
 
-<img src="./images/06-react.svg" width="40" alt="React"> <img src="./images/07-nextjs.svg" width="40" alt="Next.js"> <img src="./images/12-tailwind.svg" width="40" alt="Tailwind CSS"> <img src="./images/10-sass.svg" width="40" alt="Sass"> <img src="./images/11-bem.svg" width="40" alt="BEM"> <img src="./images/13-redux.svg" width="40" alt="Redux">
+<div align="center">
 
-**Backend & Database**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-<img src="./images/04-laravel.svg" width="40" alt="Laravel"> <img src="./images/08-nodejs.svg" width="40" alt="Node.js"> <img src="./images/15-mongodb.svg" width="40" alt="MongoDB">
+</div>
 
-**Tools**
+### 🖥️ Backend & Database
 
-<img src="./images/14-postman.svg" width="40" alt="Postman"> <img src="./images/16-git.svg" width="40" alt="Git"> <img src="./images/17-vscode.svg" width="40" alt="VS Code"> <img src="./images/18-figma.svg" width="40" alt="Figma">
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+### 🔧 Tools & Design
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -104,305 +84,119 @@ Networking · Firewalls · Web security · API security · Authentication · Lin
 
 ## 📌 Featured Projects
 
-## 💼 MERN Job Portal
+### 💼 MERN Job Portal
+> A full-stack job marketplace with dual account types, advanced filtering, and employer dashboard.
 
-A full-stack job marketplace built with React, Node.js, Express.js and MongoDB.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Features**
-
-* Job seeker & employer accounts
-* JWT authentication
-* Job posting
-* Job search
-* Category filtering
-* Location filtering
-* Salary filtering
-* Job type filtering
-* Save / unsave jobs
-* Job applications
-* Employer dashboard
-* User profiles
-* Application management
-* Responsive UI
-
-**Stack:** `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
+**Highlights:** JWT auth · Job search & filtering · Save/apply system · Employer dashboard · Responsive UI
 
 ---
 
-## 🌦️ Weather & Farming Application
+### 🌦️ Weather & Farming Application
+> Farming-focused weather app with AQI, interactive maps, Nepali language support, and PWA.
 
-A practical weather application designed around farming and local weather information.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-**Features**
-
-* Current weather
-* Weather forecast
-* Temperature
-* Humidity
-* Rain information
-* Farming recommendations
-* Weather alerts
-* GPS location
-* Interactive maps
-* Weather charts
-* Air Quality Index
-* Dark mode
-* PWA support
-* Nepali language support
-
-**Stack:** `JavaScript` `Open-Meteo API` `AQI API` `Leaflet` `Chart.js`
+**Highlights:** GPS location · AQI data · Farming recommendations · Dark mode · PWA support · 🇳🇵 Nepali language
 
 ---
 
-## 💱 Nepal Currency Converter
+### 💱 Nepal Currency Converter
+> Live exchange rates powered by Nepal Rastra Bank API.
 
-A currency conversion application using exchange-rate information.
-
-**Features**
-
-* Currency conversion
-* Nepalese Rupee support
-* Dynamic conversion
-* API integration
-* Responsive interface
-* Exchange-rate retrieval
-
-**Stack:** `HTML` `CSS` `JavaScript` `Nepal Rastra Bank API`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## ✖️ Multiplication Table Generator
+### 🏛️ Government Portal UI/UX System
+> Design system for modern government digital services built entirely in Figma.
 
-Interactive educational web application.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Features**
-
-* Custom multiplication tables
-* Instant calculation
-* Dark mode
-* Responsive design
-* Clean UI
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-## 🎨 Developer Portfolio & Blog
-
-Personal developer platform for projects, articles, experiments, and learning resources.
-
-**Focus**
-
-* Portfolio
-* Technical articles
-* Project showcase
-* Responsive design
-* Reusable components
-* Modern UI
-
----
-
-## 🏛️ Government Portal UI/UX System
-
-A design-system project focused on modern government digital services.
-
-**Design System**
-
-* Color tokens
-* Typography tokens
-* Spacing system
-* Sizing system
-* Border radius
-* Border width
-* Opacity
-* Shadows
-* Components
-* Accessibility
-* Responsive layouts
-* Light / Dark themes
-
-**Tools:** `Figma` `Tokens Studio`
-
----
+**Highlights:** Color & typography tokens · Spacing system · Light/dark themes · Accessibility · Components library
 
 ---
 
 ## 🧠 Currently Learning
 
-| Area          | Focus                                      |
-| ------------- | ------------------------------------------ |
-| Frontend      | React, Next.js, Advanced JavaScript        |
-| Backend       | Node.js, Express.js, REST APIs             |
-| Database      | MongoDB, SQL, Data Modeling                |
-| UI/UX         | Figma, Design Systems, Design Tokens       |
-| Security      | Web Security, Networking, Firewalls        |
-| System Design | Architecture, Scalability & Best Practices |
-
----
-
----
-
-## 🌍 Languages
-
-| Language     | Level            |
-| ------------ | ---------------- |
-| 🇳🇵 Nepali  | Native           |
-| 🇬🇧 English | Pre-Intermediate |
-
----
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/KC-Prakash">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
-</a>
-<a href="https://github.com/KC-Prakash">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
-</a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true" alt="GitHub Streak">
-
-<br>
-
-<a href="https://github.com/KC-Prakash">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KC-Prakash&hide_border=true&theme=github-compact" alt="GitHub Activity">
-</a>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-Instead of relying on external GitHub Trophy services that can return errors such as **402 Invalid upstream response**, this profile keeps the achievement section lightweight and reliable.
-
-### 🎯 Development Milestones
-
-* 🚀 Building full-stack web applications
-* 💻 Developing MERN-based projects
-* 🎨 Learning professional UI/UX systems
-* 🧩 Creating reusable UI components
-* 🔌 Working with REST APIs
-* 🗄️ Working with MongoDB and SQL
-* 🔐 Learning cybersecurity fundamentals
-* 📚 Continuously improving programming skills
-
----
-
----
-
-## 🧪 Coding
-
-<div align="center">
-
-<a href="https://www.codewars.com/users/KC-Prakash">
-
-<img src="https://www.codewars.com/users/KC-Prakash/badges/large" alt="Codewars">
-
-</a>
-
-</div>
-
----
-
----
-
-## 📚 Learning Journey
-
-<details>
-<summary>🌐 Web Development</summary>
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design
-* Sass
-* BEM
-* Tailwind CSS
-* React
-* Next.js
-* Redux
-
-</details>
-
-<details>
-<summary>⚙️ Backend Development</summary>
-
-* Node.js
-* Express.js
-* Laravel
-* REST API
-* Authentication
-* Authorization
-* JWT
-* API Security
-
-</details>
-
-<details>
-<summary>🗄️ Database</summary>
-
-* MongoDB
-* SQL
-* CRUD
-* Data Modeling
-* Database Relationships
-* Query Optimization
-
-</details>
-
-<details>
-<summary>🎨 UI/UX</summary>
-
-* Figma
-* Design Systems
-* Design Tokens
-* Typography
-* Color Systems
-* Spacing
-* Components
-* Responsive Design
-* Accessibility
-
-</details>
-
-<details>
-<summary>🔐 Cybersecurity</summary>
-
-* Networking
-* Firewalls
-* IDS / IPS
-* Linux Security
-* Windows Security
-* Web Security
-* API Security
-
-</details>
-
----
+| Area | Focus | Status |
+|------|-------|--------|
+| 🌐 Frontend | React · Next.js · Advanced JavaScript | 🔄 Active |
+| 🖥️ Backend | Node.js · Express.js · REST APIs | 🔄 Active |
+| 🗄️ Database | MongoDB · SQL · Data Modeling | 🔄 Active |
+| 🎨 UI/UX | Figma · Design Systems · Design Tokens | 🔄 Active |
+| 🔐 Security | Web Security · Networking · Firewalls | 📚 Learning |
+| 🏗️ System Design | Architecture · Scalability · Best Practices | 📚 Learning |
 
 ---
 
 ## 🎯 2026 Goals
 
-* [ ] Build production-ready full-stack applications
-* [ ] Improve React & Next.js expertise
-* [ ] Build scalable REST APIs
-* [ ] Improve database architecture
-* [ ] Create reusable UI component systems
-* [ ] Master Figma design systems
-* [ ] Learn advanced cybersecurity
-* [ ] Improve Linux & networking skills
-* [ ] Contribute to open-source projects
-* [ ] Build useful Nepal-focused digital solutions
+- [ ] 🚀 Build production-ready full-stack applications
+- [ ] ⚛️ Master React & Next.js
+- [ ] 🔌 Build scalable REST APIs
+- [ ] 🗄️ Improve database architecture
+- [ ] 🎨 Master Figma design systems
+- [ ] 🔐 Learn advanced cybersecurity
+- [ ] 🐧 Improve Linux & networking skills
+- [ ] 🤝 Contribute to open-source projects
+- [ ] 🇳🇵 Build Nepal-focused digital solutions
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true&theme=default" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KC-Prakash&hide_border=true&theme=github-compact" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 Milestones
+
+| Milestone | |
+|---|---|
+| 🚀 Full-stack web applications | Built |
+| 💻 MERN-based projects | Built |
+| 🎨 Professional UI/UX systems | Learning |
+| 🔌 REST API integration | Done |
+| 🗄️ MongoDB & SQL | Done |
+| 🔐 Cybersecurity fundamentals | Learning |
+
+---
+
+## 🧪 Problem Solving
+
+<div align="center">
+
+[![Codewars](https://www.codewars.com/users/KC-Prakash/badges/large)](https://www.codewars.com/users/KC-Prakash)
+
+</div>
 
 ---
 
@@ -410,63 +204,32 @@ Instead of relying on external GitHub Trophy services that can return errors suc
 
 <div align="center">
 
-### Learn → Build → Experiment → Solve → Improve
-
-```text
-💡 Idea → 🧠 Learn → 📝 Plan → 🎨 Design → 💻 Build
-                         ↓
-🚀 Deploy ← 📈 Improve ← 🔍 Debug ← 🧪 Test
+```
+💡 Idea → 🧠 Learn → 📝 Plan → 🎨 Design → 💻 Build → 🧪 Test → 🔍 Debug → 🚀 Deploy → 📈 Improve
 ```
 
 </div>
 
 ---
 
-## 😄 Fun Facts
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=I+love+building+things+with+code+%F0%9F%92%BB;I+enjoy+solving+technical+problems+%F0%9F%A7%A9;I+learn+by+building+real+projects+%F0%9F%9A%80;Keep+learning.+Keep+building.+Keep+improving." alt="Typing SVG">
+[![GitHub](https://img.shields.io/badge/GitHub-KC--Prakash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KC-Prakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Codewars](https://img.shields.io/badge/Codewars-KC--Prakash-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/KC-Prakash)
 
 </div>
 
 ---
 
----
-
-## 📈 Profile Activity
+## ☕ Support My Work
 
 <div align="center">
 
-<a href="https://u8views.com/github/KC-Prakash">
-
-<img src="https://u8views.com/api/v1/github/profiles/101246017/views/day-week-month-total-count.svg" alt="Profile Views">
-
-</a>
-
-</div>
-
----
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/KC-Prakash"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br><br>
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/prakash_kc">
-
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="40" alt="Buy Me A Coffee">
-
-</a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/prakash_kc)
 
 </div>
 
@@ -476,15 +239,6 @@ Instead of relying on external GitHub Trophy services that can return errors suc
 
 ### 💻 Code. Learn. Build. Repeat. 🚀
 
-**Thanks for visiting my profile!**
-
-⭐ Explore my repositories and follow my development journey.
-
-</div>
-
-### 💻 Code. Learn. Build. Repeat. 🚀
-
-**Thanks for visiting my profile!**  
-⭐ Explore my repositories and follow my development journey.
+*Thanks for visiting — explore my repos and follow the journey!* ⭐
 
 </div>
