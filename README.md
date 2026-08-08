@@ -163,6 +163,10 @@ const prakash = {
 
 </div>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="KC-Prakash GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true" alt="KC-Prakash Top Languages" height="180" /> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true" alt="KC-Prakash GitHub Streak" /> </p>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true&theme=default" alt="GitHub Streak" />
