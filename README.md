@@ -158,8 +158,8 @@ const prakash = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true&theme=default" alt="" />
 
 </div>
 
