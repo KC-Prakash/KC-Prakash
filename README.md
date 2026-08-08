@@ -156,20 +156,37 @@ const prakash = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+## 📊 GitHub Statistics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Languages" />
+<p align="center">
+  <img
+    src="./assets/github/stats.svg"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="./assets/github/languages.svg"
+    alt="Top Languages"
+    width="49%"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="./assets/github/streak.svg"
+    alt="GitHub Activity Streak"
+    width="70%"
+  />
+</p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true" alt="KC-Prakash GitHub Streak" /> </p>
+<p align="center">
+  <img
+    src="./assets/github/activity.svg"
+    alt="Recent GitHub Activity"
+    width="100%"
+  />
+</p>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true&theme=default" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
 
