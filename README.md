@@ -158,23 +158,35 @@ const prakash = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&layout=compact&langs_count=8&hide_border=true&theme=default" alt="" />
+<a href="https://github.com/KC-Prakash">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KC-Prakash&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=ffffff&theme=default" alt="Prakash KC GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Prakash&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=000&bg_color=ffffff&theme=default" alt="Prakash KC Top Languages" />
+
+</a>
 
 </div>
 
 <div align="center">
+
+<a href="https://github.com/KC-Prakash">
 
 <img src="https://streak-stats.demolab.com?user=KC-Prakash&hide_border=true&theme=default" alt="GitHub Streak" />
 
+</a>
+
 </div>
 
 <div align="center">
 
+<a href="https://github.com/KC-Prakash">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KC-Prakash&hide_border=true&theme=github-compact" alt="GitHub Activity Graph" />
 
-</div>
+</a>
 
+</div>
 ---
 
 ## 🏆 Milestones
